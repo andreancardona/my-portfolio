@@ -27,7 +27,7 @@
   text-align: center;
   background-color: whitesmoke;
   min-width: 200px;
-  min-height: 300px;
+  min-height: 350px;
 }
 .card a:hover {
   background-color: rgb(206, 195, 195);
@@ -60,7 +60,7 @@
   margin: 0px auto 0px auto;
 }
 .card-button {
-  font-weight: 300;
+  font-weight: 500;
   font-size: 20px;
   color: black;
   -webkit-appearance: button;
