@@ -34,7 +34,7 @@ const Projects = () => {
       </article>
       <article className="card">
         <img className="card-image" src="https://i.imgur.com/dWPmFP9.png" alt="img" />
-        <p className="card-title" tabIndex="0">BoozeHoundz</p>
+        <p className="card-title" tabIndex="0">BoozeHounds</p>
         <p className="card-sub-title" tabIndex="0">Ruby on Rails Web App 💻</p>
         <p className="card-description" tabIndex="0">Search for your nearest NYC corner store. Add a favorite to your list, make comments & leave a review.</p>
         <a type="button" href="https://www.youtube.com/watch?v=WAUHEWFr1uE&t=2s" className="card-button">DEMO</a>
