@@ -14,10 +14,10 @@
   }
 }
 /* mobile tile styles */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 415px) {
   .cards-container {
     grid-template-columns: repeat(1, 1fr);
-   }
+  }
 }
 .card {
   display: grid;
@@ -39,21 +39,21 @@
   margin-right: auto;
 }
 .card-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 25px;
   color: black;
   margin: 0px auto 0px auto;
 }
 .card-sub-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
   font-size: 18px;
   color: black;
   margin: 0px auto 0px auto;
 }
 .card-description {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 500;
   font-size: 18px;
   color: black;

@@ -7,7 +7,7 @@ const Projects = () => {
       <article className="card" tabIndex="0">
         <img className="card-image" src="https://i.imgur.com/Da3fU7U.png?1" alt="img" />
         <p className="card-title" tabIndex="0">JobHob</p>
-        <p className="card-sub-title" tabIndex="0">React App / Mobile RWD 💻📱</p>
+        <p className="card-sub-title" tabIndex="0">React App / Mobile 💻📱</p>
         <p className="card-description" tabIndex="0">Add & Update List of Jobs</p>
         <a type="button" href="https://github.com/andreancardona/job-app" className="card-button">REPO | DEMO</a>
       </article>
