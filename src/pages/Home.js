@@ -41,7 +41,7 @@ const Home = () => {
           </a>
           <a className="tile" href="https://github.com/andreancardona?tab=repositories">
             <img className="tile-logo" src="https://i.imgur.com/JWa8WWp.png" alt="github" />
-            <p className="tile-text">Vimeo</p>
+            <p className="tile-text">Twitter</p>
           </a>
         </section>
         <p className="sub-header-projects" tabIndex="0">

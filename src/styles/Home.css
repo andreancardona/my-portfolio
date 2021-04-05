@@ -1,4 +1,5 @@
 /* app container styles */
+
 .app-container {
   background: #ffddd1;
   min-height: 100%;
@@ -7,7 +8,9 @@
   top: 0;
   left: 0;
 }
+
 /* home header styles */
+
 .header-title {
   margin: 60px 0 0 40px;
   text-align: left;
@@ -16,12 +19,14 @@
   font-size: 80px;
   color: black;
 }
+
 .sub-headers-container {
   margin-top: 50px;
   display: grid;
   justify-content: center;
   align-items: center;
 }
+
 .sub-header-name {
   margin: 20px auto 20px auto;
   font-family: "Bodoni Moda", serif;
@@ -29,6 +34,7 @@
   font-size: 40px;
   color: black;
 }
+
 .sub-header-description {
   margin-left: auto;
   margin-right: auto;
@@ -38,6 +44,7 @@
   color: black;
   width: 650px;
 }
+
 .sub-header-location {
   margin-top: 50px;
   margin-left: auto;
@@ -48,20 +55,26 @@
   color: black;
   border-radius: 4px;
 }
+
 .sub-header-location a:hover {
   background-color: rgb(206, 195, 195);
 }
+
 /* mobile header styles */
+
 @media only screen and (max-width: 415px) {
   .sub-header-description {
     font-size: 25px;
     width: 80%;
   }
+
   .sub-header-location {
     font-size: 20px;
   }
 }
+
 /* location styles */
+
 .location {
   background-color: whitesmoke;
   text-decoration: none;
@@ -69,7 +82,9 @@
   border-radius: 4px;
   padding: 10px;
 }
+
 /* tile styles */
+
 .tiles-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -78,9 +93,11 @@
   text-decoration: none;
   margin: 80px auto 30px auto;
 }
+
 .tiles-container a:hover {
   background-color: rgb(206, 195, 195);
 }
+
 .tile {
   border-radius: 5px;
   padding: 10px;
@@ -91,10 +108,12 @@
   align-items: center;
   width: 180px;
 }
+
 .tile-logo {
   width: 50px;
   height: 50px;
 }
+
 .tile-text {
   font-family: "Bodoni Moda", serif;
   font-weight: 500;
@@ -103,6 +122,7 @@
   text-align: right;
   padding-right: 5px;
 }
+
 .sub-header-projects {
   margin-top: 50px;
   margin-left: auto;
@@ -113,20 +133,26 @@
   color: black;
   border-radius: 4px;
 }
+
 /* medium screen tile styles */
+
 @media only screen and (max-width: 1000px) {
   .tiles-container {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
 /* mobile tile styles */
+
 @media only screen and (max-width: 415px) {
   .tiles-container {
     grid-template-columns: repeat(1, 1fr);
     width: 200px;
   }
 }
+
 /* mobile sub header styles */
+
 @media only screen and (max-width: 415px) {
   .sub-header-description {
     font-size: 25px;
@@ -135,11 +161,13 @@
     font-size: 20px;
   }
   .sub-header-projects {
-    font-size: 5px;
+    font-size: 25px;
     width: 80%;
   }
 }
+
 /* copyright footer styles */
+
 .copyright-footer {
   font-family: "Bodoni Moda", serif;
   font-weight: 500;
