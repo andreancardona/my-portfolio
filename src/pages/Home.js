@@ -20,27 +20,27 @@ const Home = () => {
         </p>
         <section className="tiles-container">
           <a className="tile" href="https://github.com/andreancardona?tab=repositories">
-            <img className="tile-logo" src="https://i.imgur.com/IKyn2TR.png" alt="github" />
+            <img className="tile-logo" src="https://i.imgur.com/IKyn2TR.png" alt="github logo" />
             <p className="tile-text">Code</p>
           </a>
           <a className="tile" href="https://github.com/andreancardona/talks-presentations/blob/main/README.md">
-            <img className="tile-logo" src="https://i.imgur.com/IKyn2TR.png" alt="github" />
+            <img className="tile-logo" src="https://i.imgur.com/IKyn2TR.png" alt="github logo" />
             <p className="tile-text">Talks</p>
           </a>
           <a className="tile" href="https://medium.com/@oh-hey-dre">
-            <img className="tile-logo" src="https://i.imgur.com/p9Yzq61.png" alt="github" />
+            <img className="tile-logo" src="https://i.imgur.com/p9Yzq61.png" alt="medium logo" />
             <p className="tile-text">Blog</p>
           </a>
           <a className="tile" href="https://www.linkedin.com/in/andrea-cardona-b647594b/">
-            <img className="tile-logo" src="https://i.imgur.com/MX9mFpT.png" alt="github" />
+            <img className="tile-logo" src="https://i.imgur.com/MX9mFpT.png" alt="linkedin logo" />
             <p className="tile-text">LinkedIn</p>
           </a>
-          <a className="tile" href="https://techqueria.org/">
-            <img className="tile-logo" src="https://i.imgur.com/6TOxxpo.png" alt="github" />
+          <a className="tile" href="https://github.com/andreancardona/techqueria-events/blob/main/README.md">
+            <img className="tile-logo" src="https://i.imgur.com/6TOxxpo.png" alt="techqueria non-profit logo" />
             <p className="tile-text">Techqueria</p>
           </a>
           <a className="tile" href="https://github.com/andreancardona?tab=repositories">
-            <img className="tile-logo" src="https://i.imgur.com/JWa8WWp.png" alt="github" />
+            <img className="tile-logo" src="https://i.imgur.com/JWa8WWp.png" alt="twitter logo" />
             <p className="tile-text">Twitter</p>
           </a>
         </section>
